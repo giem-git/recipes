@@ -4,7 +4,7 @@ nav:
   - Home: index.md
 
 theme: 
-  name : readthedocs
+  name : material
   language: fr
   palette:
     primary: blue grey
