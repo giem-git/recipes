@@ -1,0 +1,17 @@
+site_name: Recettes Gervais
+site_url: https://giem-git.github.io/recettes/
+nav:
+  - Home: index.md
+
+theme: 
+  name : readthedocs
+  language: fr
+  palette:
+    primary: blue grey
+  features:
+    - navigation.tabs 
+    - navigation.top
+
+extra:
+  generator: false
+
