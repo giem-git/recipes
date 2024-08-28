@@ -1,7 +1,5 @@
 # Poulet presque chinois
 
-Une recette de **Fanny Joly**
-
   - Coupez des blancs de poulet en aiguillettes
   - Coupez des échalotes
   - Grillez les ensemble dans une poêle avec un peu d'huile, sel et poivre
@@ -10,4 +8,3 @@ Une recette de **Fanny Joly**
   - Je sers souvent cette recette avec du riz. A ce jour je n'ai reçu aucune plainte à ce sujet.
 
 Bon appétit
-Fanny Joly
