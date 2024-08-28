@@ -4,7 +4,8 @@
 **Préparation** : 15 mn - **Cuisson** : 20 mn
 
 ## Ingrédients
-**pour 6 personnes**
+**pour 6 personnes :**
+
   * 9 tomates pas trop mûres
   * 1 grosse cuillérée à soupe de persil haché
   * 2 grosses échalotes
