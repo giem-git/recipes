@@ -33,7 +33,7 @@ theme:
         name: Passer en mode clair
       primary: blue grey
   features:
-    #- navigation.tabs
+    - navigation.tabs
     - navigation.path
     - toc.follow
     - toc.integrate
