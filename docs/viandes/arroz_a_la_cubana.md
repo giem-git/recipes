@@ -1,7 +1,5 @@
 # Arroz a la Cubana (Riz a la cubaine)
 
-Une recette de **Carmen Branco**
-
 ## Ingrédients pour 4 personnes
   * 6 tasses à café de riz
   * 4 oeufs
