@@ -4,7 +4,13 @@ repo_url: https://github.com/giem-git/recipes
 edit_uri: edit/main/docs/
 
 nav:
-  - Home: index.md
+  - Entrées et soupes: soupes.md
+  - Salades: salades.md
+  - Viandes: viandes.md
+  - Poissons: poissons.md
+  - Desserts: desserts.md
+  - Divers: divers.md
+  - Autres: autres.md
 
 theme:
   name : material
@@ -28,7 +34,6 @@ theme:
       primary: blue grey
   features:
     #- navigation.tabs
-    #- navigation.top
     - navigation.path
     - toc.follow
     - toc.integrate
