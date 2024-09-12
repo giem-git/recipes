@@ -17,4 +17,10 @@
 * Huile d'olive
 * Coriandre
 * Persil
- 
+## Préparation 
+
+* Dans une cocotte, faites revenir dans l'huile d'olive les oignons émincés et les tomates mixées pendant 5 min environ.
+* Ajoutez le cube de bouillon de légumes, les épices et les herbes et laissez cuire quelques minutes supplémentaires. 
+* Ajoutez les navets coupés en quarts et couvrez avec 1L d'eau bouillante. Laissez cuire 25 min.
+* Coupez les carottes en 4 et ajoutez-les à votre bouillon. Laissez cuire à nouveau environ 15 min.
+* Ajoutez les pois chiches et laissez cuire 5 à 10 minutes.
