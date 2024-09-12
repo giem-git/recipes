@@ -5,6 +5,7 @@
   * [Soufflé au fromage](autres/souffle_fromage.md)
   * [Quiche lorraine](autres/quiche.md)
   * [Tarte à la tomate](autres/tarte_tomates.md)
+  * [Légumes couscous](autres/couscous.md)
 
 ## Accompagnements 
   * [Riz vinaigré](autres/riz_vinaigre.md)
