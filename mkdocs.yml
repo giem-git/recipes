@@ -8,9 +8,9 @@ nav:
   - Salades: salades.md
   - Viandes: viandes.md
   - Poissons: poissons.md
+  - Légumes et féculents: legumes.md
   - Desserts: desserts.md
   - Divers: divers.md
-  - Autres: autres.md
 
 theme:
   name : material
